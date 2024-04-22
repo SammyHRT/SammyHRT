@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SammyHRT
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: ...
+- ⚡ Favourite Game: The Finals 
 
 <!---
 SammyHRT/SammyHRT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
